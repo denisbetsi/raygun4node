@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MindscapeHQ/raygun4node.git"
+    "url": "git://github.com/denisbetsi/raygun4node.git"
   },
   "bugs": {
     "url": "https://github.com/MindscapeHQ/raygun4node/issues"
@@ -32,7 +32,7 @@
     "tap": "^0.4.13"
   },
   "dependencies": {
-    "stack-trace": "0.0.6"
+    "stack-trace": "git://github.com/denisbetsi/node-stack-trace/#master"
   },
   "keywords": []
 }
